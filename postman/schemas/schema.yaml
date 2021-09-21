@@ -7,7 +7,7 @@ servers:
 paths:
   /user:
     get:
-      summary: 'Sample endpoint: Returns details about a particulnmarjj user'
+      summary: 'Sample endpoint: Returns details about a part user'
       operationId: listUser
       tags:
         - user
