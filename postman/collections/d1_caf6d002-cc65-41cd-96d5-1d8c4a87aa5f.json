@@ -6,7 +6,7 @@
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a part usnkjer",
+            "name": "Sample endpoint: Returns details about a part usnkr",
             "id": "867eac49-6702-4bad-9cd6-115f40e7124c",
             "request": {
                 "method": "GET",
